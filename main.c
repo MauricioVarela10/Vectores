@@ -224,7 +224,7 @@ void ma(double v1[],int longitud){
 void imp(int longitud){
     for (int i=0;i<200;i++){
         if (v2[i]>0){
-            printf("Los numeros mayores a 100 000 es: %lf",v2[i]);
+            printf("Los numeros mayores a 100 000 es: \n %lf",v2[i]);
         }
        
     }
